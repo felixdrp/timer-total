@@ -1,0 +1,26 @@
+{
+  "name": "timer-total",
+  "version": "1.0.0",
+  "description": "Timer full of options!",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixdrp/timer-total.git"
+  },
+  "keywords": [
+    "timer",
+    "cleartimer"
+  ],
+  "author": "Felix D Rodriguez Perez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/felixdrp/timer-total/issues"
+  },
+  "homepage": "https://github.com/felixdrp/timer-total#readme",
+  "devDependencies": {
+    "tap": "^11.1.3"
+  }
+}
