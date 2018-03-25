@@ -1,7 +1,5 @@
 # timer-total
 
-It has no dependencies!!
-
 Timer full of options:
   * delay
   * interval
@@ -9,6 +7,7 @@ Timer full of options:
   * callback
 
 You can clear/cancel the timer at any moment!! 
+It has no dependencies!!
 
 ## Install
 ```
