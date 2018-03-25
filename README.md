@@ -57,7 +57,7 @@ setTimeout(() => t(), 120)
 // Result Hello World 1 time.
 ```
 
-Here is another example but using promeses:
+Here is another example but using promises:
 
 ```javascript
 const timer = require('timer-total')
@@ -76,7 +76,7 @@ const options = {
 const t = timer(options)
 
 // To clear the timer just call t()
-setTimerPromise(120).then(() => t())
+setTimerPromise(120).then(t)
 
 // Result Hello World 1 time.
 ```
