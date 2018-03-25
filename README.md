@@ -9,7 +9,7 @@ You can clear/cancel de timer at any moment!!
 
 ## Install
 ```
-npm install timer-total --save
+npm install felixdrp/timer-total --save
 ```
 ## Use
 
